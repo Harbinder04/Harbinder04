@@ -5,8 +5,8 @@ Hi, I'm Harbinder Singh, a Web Developer, AI Enthusiast.
 
 ## 🛠️ Tech Stack
 
-- <ins> Frontend:</ins> HTML, CSS, JavaScript, React, Nextjs
-- <ins> Backend:</ins> Node.js, Express, Python, Django
+- <ins> Frontend:</ins> HTML, CSS, JavaScript, Typescript, React, Nextjs
+- <ins> Backend:</ins> Node.js, Express
 - <ins> Database:</ins> MongoDB, PostgreSQL
 - <ins> DevOps:</ins> Docker, AWS, CI/CD
 - <ins> Tools:</ins> Git, Postman
