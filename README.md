@@ -17,10 +17,7 @@ Hi, I'm Harbinder Singh, a Web Developer, AI Enthusiast.
 
 <div>
   <a href="https://x.com/Harbinder04" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-logo-icon-download-in-svg-png-gif-file-formats--x-new-sign-logos-pack-icons-7651211.png?f=webp&w=512" width="40" height="40" alt="twitter" /> </a>&nbsp
-  <a href="https://www.linkedin.com/in/harbinder-singh-780788229/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin"/>
-  </a>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-logo-icon-download-in-svg-png-gif-file-formats--x-new-sign-logos-pack-icons-7651211.png?f=webp&w=512" width="40" height="40" alt="twitter" /> </a>
 </div>
 
 ## 💬 Ask me about
