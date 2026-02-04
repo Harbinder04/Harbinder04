@@ -22,9 +22,6 @@ Trying to learn from other peoples code.
 
 ## 💬 Ask me about
 Wanna chat about coding? Hit me up! I'm always down to geek out about dev stuff.
-
-## 📊 GitHub Stats
-   ![Harbinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harbinder04&show_icons=true)
 <!---
 Harbinder04/Harbinder04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
